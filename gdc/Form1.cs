@@ -78,7 +78,7 @@ namespace gdc
                 new XAttribute("url", "http://192.168.200.11:8888/gas/wa/r/gdc-tiptop-udm-intranet"),
                 new XAttribute("type", "http"),
                 new XAttribute("certificate", "disabled"),
-                new XAttribute("name", "顶立正式"),
+                new XAttribute("name", "顶立ERP"),
                 new XAttribute("proxyType", "monitor"),
                 new XAttribute("keepPassword", "true"),
                 new XAttribute("allowPersistentSave", "true")
